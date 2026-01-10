@@ -1,4 +1,4 @@
-# 👥 HR Attrition Dashboard – Power BI
+# 👥 HR Attrition Dashboard
 
 ## 🎯 Business Objective
 To analyze employee attrition and identify the major factors contributing to employee turnover, helping HR teams take data-driven decisions to improve retention.
