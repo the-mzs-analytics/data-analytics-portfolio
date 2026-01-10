@@ -1,4 +1,4 @@
-# 🛒 Madhav Online E-Commerce Sales Dashboard – Power BI
+# 🛒 Madhav Online E-Commerce Sales Dashboard
 
 ## 🎯 Business Objective
 To analyze online sales performance across states, categories, customers, and time periods to identify profit drivers, customer behavior, and growth opportunities.
