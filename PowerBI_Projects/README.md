@@ -12,7 +12,7 @@
 </td>
 
 <td width="33%" align="center">
-  <h3>📊 E-Commerce Sales Dashboard</h3>
+  <h3>📊 E-Commerce Sales Analysis</h3>
   <img src="./Madhav Online Ecommerce/MADHAV ONLINE ECOMMERCE.png" width="100%"/>
   <br><br>
   🔗 <a href="./Madhav Online Ecommerce">View Project</a> |
