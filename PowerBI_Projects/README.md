@@ -13,18 +13,18 @@
 
 <td width="33%" align="center">
   <h3>📊 Sales Dashboard</h3>
-  <img src="./Sales_Dashboard/overview.png" width="100%"/>
+  <img src="./Madhav Online Ecommerce/overview.png" width="100%"/>
   <br><br>
-  🔗 <a href="./Sales_Dashboard">View Project</a> |
+  🔗 <a href="./Madhav Online Ecommerce">View Project</a> |
   🌐 <a href="PASTE_POWERBI_LINK">Live Dashboard</a>
 </td>
 
 <td width="33%" align="center">
-  <h3>💰 Finance KPI Dashboard</h3>
-  <img src="./Finance_KPI_Dashboard/overview.png" width="100%"/>
+  <h3>🚦 Road Accident Analysis</h3>
+  <img src="./Road_Accident_Analysis_Dashboard/Road_Accident_Dashboard.png" width="100%"/>
   <br><br>
-  🔗 <a href="./Finance_KPI_Dashboard">View Project</a> |
-  🌐 <a href="PASTE_POWERBI_LINK">Live Dashboard</a>
+  🔗 <a href="./Road_Accident_Analysis_Dashboard">View Project</a> |
+  🌐 <a href="PASTE_POWERBI_LINK">Live</a>
 </td>
 
 </tr>
