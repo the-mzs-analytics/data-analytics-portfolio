@@ -52,8 +52,6 @@ Based on the analysis, to reduce attrition:
 
 
 ## 📐 DAX Measures Used
-
-```DAX
 AttritionRate = 
 DIVIDE(
     SUM(HR_Analytics[Attrition Count]),
