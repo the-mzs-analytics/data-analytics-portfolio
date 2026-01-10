@@ -1,62 +1,57 @@
-# 👥 HR Attrition Dashboard
+# 🛒 Madhav Online E-Commerce Sales Dashboard – Power BI
 
 ## 🎯 Business Objective
-To analyze employee attrition and identify the major factors contributing to employee turnover, helping HR teams take data-driven decisions to improve retention.
+To analyze online sales performance across states, categories, customers, and time periods to identify profit drivers, customer behavior, and growth opportunities.
 
 ---
 
 ## 📊 Dashboard Highlights
-- Overall Attrition Rate
-- Attrition by Education Background
-- Attrition by Age & Gender
-- Attrition by Distance from Home
-- Attrition by Job Role & Job Satisfaction
-- Attrition by Salary Slab
-- Attrition by Years at Company
+- Total Sales Amount, Profit, Quantity, and Average
+- Sales by State
+- Quantity by Category
+- Monthly Profit Trend
+- Top Customers by Sales
+- Payment Mode Analysis
+- Profit by Sub-Category
 
 ---
 
 ## 💡 Key Insights
 
-1. Maximum attrition observed among employees with **Life Science** education, followed by **Medical** background.  
-2. **Male employees aged 55+** and **female employees aged 18–25** recorded the highest attrition.  
-3. **Distance from home (>10 km)** significantly impacts female attrition.  
-4. **Laboratory Technicians** show the highest attrition based on job satisfaction levels.  
-5. Average salary is **6.5K**, and employees earning **below this slab** show higher attrition.  
-6. Most **male attrition occurs within the first year**, while for females it is around **one year of service**.  
-7. **Sales Representative** role shows the highest attrition:  
-   - Male: **38%**  
-   - Female: **43%**
+1. Total Sales Amount is **438K** with **37K profit**, showing positive business growth.  
+2. **Maharashtra (102K)** and **Madhya Pradesh (87K)** are the top revenue-generating states.  
+3. **Clothing category dominates with 63%** of total quantity sold.  
+4. **High profit months** include February, April, September, November, and December.  
+5. **Loss occurred in July (-2K) and December (-1K)** indicating seasonal or cost issues.  
+6. Top customers contribute significantly — **Madhav (9K)** and **Madan Mohan (8K)** lead sales.  
+7. **Cash on Delivery (44%)** is the most preferred payment method, followed by **UPI (21%)**.  
+8. **Printers (9K)** and **Bookcases (7K)** are the most profitable sub-categories.
 
 ---
 
 ## ✅ Business Recommendations
 
-Based on the analysis, to reduce attrition:
-
-- Prefer hiring candidates with **diverse educational backgrounds**, not only Life Science and Medical.
-- Provide **better facilities and security**, especially to support female employees.
-- Offer **salary revisions** based on skills, experience, and performance.
-- Introduce **training programs, skill development, and internal promotions** to increase motivation.
-- For **Sales Representative and Lab Technician roles**, prioritize hiring **male candidates below 30 years** where suitable.
+- Strengthen presence in **high-performing states** with targeted marketing.
+- Introduce promotions to improve sales in **low-performing regions**.
+- Expand product range in **Clothing category** due to strong demand.
+- Promote **high-profit sub-categories** for better margins.
+- Encourage **digital payments** to reduce COD dependency.
+- Analyze operational costs during **loss-making months**.
+- Retain top customers using **loyalty programs and personalized offers**.
 
 ---
 
 ## 🛠 Tools Used
 - Power BI
-- Excel / SQL (Data Source)
+- Excel (Data Source)
 
+---
 
-## 📐 DAX Measures Used
-```DAX
-AttritionRate = 
-DIVIDE(
-    SUM(HR_Analytics[Attrition Count]),
-    SUM(HR_Analytics[EmployeeCount])
-)
-```
-## 📁 Files
-  👉 [HR_Attrition_Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmUwNWExNWQtZWNjOC00OTk2LWJlNmEtOTg3Y2U2NWQ3M2U3IiwidCI6Ijc3ZWYwMzdjLWU5N2MtNDUzZi04MmY2LTI0Y2M2NGViNGEyMCJ9)
-- Overview
-   ![Screenshot](HR_Attrition.png)
+👉 [MADHAV ONLINE ECOMMERCE](https://app.powerbi.com/view?r=eyJrIjoiMWY3YzQzNjAtZTZhZi00ODBiLWE3YTEtMGQ3MmU1MGRlOGU1IiwidCI6Ijc3ZWYwMzdjLWU5N2MtNDUzZi04MmY2LTI0Y2M2NGViNGEyMCJ9) 
+- Overview ![Screenshot](MADHAV ONLINE ECOMMERCE.png)
 
+---
+
+## 📸 Dashboard Preview
+
+![Madhav Ecommerce Dashboard](Madhav_Ecommerce.png)
