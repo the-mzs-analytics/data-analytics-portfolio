@@ -21,7 +21,7 @@
 
 <td width="33%" align="center">
   <h3>🚦 Road Accident Analysis</h3>
-  <img src="./PowerBI_Projects/Road Accident Analysis/Road_Accident.png" width="100%"/>
+  <img src="./Road Accident Analysis/Road_Accident.png" width="100%"/>
   <br><br>
   🔗 <a href="./Road_Accident_Analysis_Dashboard">View Project</a> |
   🌐 <a href="https://app.powerbi.com/view?r=eyJrIjoiYjZkZTQxNDYtNWFkYy00ZjFkLWE0NTUtYWEzMzVmZmQwY2IwIiwidCI6Ijc3ZWYwMzdjLWU5N2MtNDUzZi04MmY2LTI0Y2M2NGViNGEyMCJ9">Live</a>
