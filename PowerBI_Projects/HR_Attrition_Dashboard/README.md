@@ -46,11 +46,6 @@ Based on the analysis, to reduce attrition:
 - Power BI
 - Excel / SQL (Data Source)
 
-## 📁 Files
-- HR_Attrition_Dashboard.pbix
-   [HR_Attrition_Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmUwNWExNWQtZWNjOC00OTk2LWJlNmEtOTg3Y2U2NWQ3M2U3IiwidCI6Ijc3ZWYwMzdjLWU5N2MtNDUzZi04MmY2LTI0Y2M2NGViNGEyMCJ9)
-- Screenshot
-   ![Screenshot](HR_Attrition.png)
 
 ## 📐 DAX Measures Used
 ```DAX
@@ -59,4 +54,10 @@ DIVIDE(
     SUM(HR_Analytics[Attrition Count]),
     SUM(HR_Analytics[EmployeeCount])
 )
+```
+## 📁 Files
+- HR_Attrition_Dashboard.pbix
+   [HR_Attrition_Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmUwNWExNWQtZWNjOC00OTk2LWJlNmEtOTg3Y2U2NWQ3M2U3IiwidCI6Ijc3ZWYwMzdjLWU5N2MtNDUzZi04MmY2LTI0Y2M2NGViNGEyMCJ9)
+- Screenshot
+   ![Screenshot](HR_Attrition.png)
 
