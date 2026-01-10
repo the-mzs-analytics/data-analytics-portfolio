@@ -42,6 +42,15 @@ Based on the analysis, to reduce attrition:
 
 ---
 
+## 🛠 Tools Used
+- Power BI
+- Excel / SQL (Data Source)
+
+## 📁 Files
+- HR_Attrition_Dashboard.pbix
+- Screenshots
+
+
 ## 📐 DAX Measures Used
 
 ```DAX
@@ -51,10 +60,3 @@ DIVIDE(
     SUM(HR_Analytics[EmployeeCount])
 )
 
-## 🛠 Tools Used
-- Power BI
-- Excel / SQL (Data Source)
-
-## 📁 Files
-- HR_Attrition_Dashboard.pbix
-- Screenshots
