@@ -23,7 +23,7 @@
   <h3>🚦 Road Accident Analysis</h3>
   <img src="./Road Accident Analysis/Road_Accident.png" width="100%"/>
   <br><br> 
-  🔗 <a href="./Madhav Online Ecommerce">View Project</a> |
+  🔗 <a href="./Road Accident Analysis">View Project</a> |
   🌐 <a href="https://app.powerbi.com/view?r=eyJrIjoiYjZkZTQxNDYtNWFkYy00ZjFkLWE0NTUtYWEzMzVmZmQwY2IwIiwidCI6Ijc3ZWYwMzdjLWU5N2MtNDUzZi04MmY2LTI0Y2M2NGViNGEyMCJ9">Live Dashboard</a>
 </td>
 
@@ -33,7 +33,7 @@
   <h3>📞 Call Center Trend Analysis</h3>
   <img src="./Call Centre Trend-PWC/Call_centre.png" width="100%"/>
   <br><br>
-  🔗 <a href="./Call Center Trend Analysis">View Project</a> |
+  🔗 <a href="./Call Centre Trend-PWC">View Project</a> |
   🌐 <a href="https://app.powerbi.com/view?r=eyJrIjoiNDUxOTRhZDItYjA4MS00OWI3LTgwMWMtYjhjOGJmNDIwYjY2IiwidCI6Ijc3ZWYwMzdjLWU5N2MtNDUzZi04MmY2LTI0Y2M2NGViNGEyMCJ9">Live Dashboard</a>
 </td>
 
@@ -42,7 +42,7 @@
   <h3>🚴Adv. Works Sales Analysis</h3>
   <img src="./Adventure Works/AWC_1.png" width="100%"/>
   <br><br>
-  🔗 <a href="./Madhav Online Ecommerce">View Project</a> |
+  🔗 <a href="./Adventure Works">View Project</a> |
   🌐 <a href="https://app.powerbi.com/view?r=eyJrIjoiOTg5OWMyNGQtNTViZC00ZmVmLTkwMGMtNzNkMDgyMjZkMTIwIiwidCI6Ijc3ZWYwMzdjLWU5N2MtNDUzZi04MmY2LTI0Y2M2NGViNGEyMCJ9">Live Dashboard</a>
 </td>
 
