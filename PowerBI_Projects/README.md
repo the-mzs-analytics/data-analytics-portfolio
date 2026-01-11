@@ -13,7 +13,7 @@
 
 <td width="33%" align="center">
   <h3>📊 E-Commerce Sales Analysis</h3>
-  <img src="./Madhav Online Ecommerce/MADHAV ONLINE ECOMMERCE.png" width="100%"/>
+  <img src="./Madhav Online Ecommerce/MADHAV_ONLINE_ECOMMERCE.png" width="100%"/>
   <br><br>
   🔗 <a href="./Madhav Online Ecommerce">View Project</a> |
   🌐 <a href="https://app.powerbi.com/view?r=eyJrIjoiMWY3YzQzNjAtZTZhZi00ODBiLWE3YTEtMGQ3MmU1MGRlOGU1IiwidCI6Ijc3ZWYwMzdjLWU5N2MtNDUzZi04MmY2LTI0Y2M2NGViNGEyMCJ9">Live Dashboard</a>
