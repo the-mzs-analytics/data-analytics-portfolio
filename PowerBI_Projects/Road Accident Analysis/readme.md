@@ -95,6 +95,9 @@ DIVIDE(
 ```
 ## 📁 Files
   👉 [Road Accident Analysis](https://app.powerbi.com/view?r=eyJrIjoiYjZkZTQxNDYtNWFkYy00ZjFkLWE0NTUtYWEzMzVmZmQwY2IwIiwidCI6Ijc3ZWYwMzdjLWU5N2MtNDUzZi04MmY2LTI0Y2M2NGViNGEyMCJ9)
-- Overview
-  ![Screenshot](Road_Accident.png) 
+## 📸 Dashboard Preview
+  ![Screenshot](Road_Accident.png)
+
+  ## ⚠ Disclaimer
+This dashboard is part of my personal portfolio and is intended for learning and demonstration purposes only.
   
