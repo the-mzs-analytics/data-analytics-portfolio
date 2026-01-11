@@ -63,8 +63,3 @@ To improve customer satisfaction and issue resolution in the upcoming year:
 ![Call Center Dashboard](Call_centre.png)
 
 ---
-
-## ⚠ Disclaimer
-This dashboard is part of my personal portfolio and is intended for learning and demonstration purposes only.  
-Unauthorized commercial use or redistribution is not permitted.
-
