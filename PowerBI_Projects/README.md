@@ -27,6 +27,9 @@
   🌐 <a href="https://app.powerbi.com/view?r=eyJrIjoiYjZkZTQxNDYtNWFkYy00ZjFkLWE0NTUtYWEzMzVmZmQwY2IwIiwidCI6Ijc3ZWYwMzdjLWU5N2MtNDUzZi04MmY2LTI0Y2M2NGViNGEyMCJ9">Live</a>
 </td>
 
+</tr>
+<tr>
+
 <td width="33%" align="center">
   <h3>🚴 Adventure Works Sales Analysis</h3>
   <img src="./Adventure Works/AWC_1.png" width="100%"/>
@@ -34,7 +37,6 @@
   🔗 <a href="./Adventure_Works_Sales_Analysis">View Project</a> |
   🌐 <a href="PASTE_POWERBI_LINK">Live</a>
 </td>
-
 
 
 </tr>
