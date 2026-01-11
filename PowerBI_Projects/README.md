@@ -33,7 +33,7 @@
   <h3>📞 Call Center Trend Analysis</h3>
   <img src="./Call Centre Trend-PWC/Call_centre.png" width="100%"/>
   <br><br>
-  🔗 <a href="./Call Center Trend Analysi">View Project</a> |
+  🔗 <a href="./Call Center Trend Analysis">View Project</a> |
   🌐 <a href="https://app.powerbi.com/view?r=eyJrIjoiNDUxOTRhZDItYjA4MS00OWI3LTgwMWMtYjhjOGJmNDIwYjY2IiwidCI6Ijc3ZWYwMzdjLWU5N2MtNDUzZi04MmY2LTI0Y2M2NGViNGEyMCJ9">Live Dashboard</a>
 </td>
 
