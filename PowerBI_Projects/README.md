@@ -24,7 +24,7 @@
   <img src="./Road Accident Analysis/Road_Accident.png" width="100%"/>
   <br><br> 
   🔗 <a href="./Madhav Online Ecommerce">View Project</a> |
-  🌐 <a href="https://app.powerbi.com/view?r=eyJrIjoiYjZkZTQxNDYtNWFkYy00ZjFkLWE0NTUtYWEzMzVmZmQwY2IwIiwidCI6Ijc3ZWYwMzdjLWU5N2MtNDUzZi04MmY2LTI0Y2M2NGViNGEyMCJ9">Live</a>
+  🌐 <a href="https://app.powerbi.com/view?r=eyJrIjoiYjZkZTQxNDYtNWFkYy00ZjFkLWE0NTUtYWEzMzVmZmQwY2IwIiwidCI6Ijc3ZWYwMzdjLWU5N2MtNDUzZi04MmY2LTI0Y2M2NGViNGEyMCJ9">Live Dashboard</a>
 </td>
 
 </tr>
@@ -35,7 +35,7 @@
   <img src="./Adventure Works/AWC_1.png" width="100%"/>
   <br><br>
   🔗 <a href="./Madhav Online Ecommerce">View Project</a> |
-  🌐 <a href="https://app.powerbi.com/view?r=eyJrIjoiOTg5OWMyNGQtNTViZC00ZmVmLTkwMGMtNzNkMDgyMjZkMTIwIiwidCI6Ijc3ZWYwMzdjLWU5N2MtNDUzZi04MmY2LTI0Y2M2NGViNGEyMCJ9">Live</a>
+  🌐 <a href="https://app.powerbi.com/view?r=eyJrIjoiOTg5OWMyNGQtNTViZC00ZmVmLTkwMGMtNzNkMDgyMjZkMTIwIiwidCI6Ijc3ZWYwMzdjLWU5N2MtNDUzZi04MmY2LTI0Y2M2NGViNGEyMCJ9">Live Dashboard</a>
 </td>
 
 
