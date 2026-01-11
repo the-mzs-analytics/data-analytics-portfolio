@@ -1,4 +1,4 @@
-# 📞 Call Center Trend Analysis Dashboard – Power BI
+# 📞 Call Center Trend Analysis 
 
 ## 🎯 Business Objective
 To analyze call center performance, agent efficiency, issue resolution rates, and customer satisfaction in order to improve service quality and optimize agent allocation.
@@ -45,21 +45,13 @@ To improve customer satisfaction and issue resolution in the upcoming year:
 - Power BI
 - Excel Dataset
 
----
-
-## 📊 KPIs Analyzed
-- Average Customer Satisfaction Rating
-- Call Resolution Percentage by Agent
-- Issues by Topic Category
-- Monthly Issue Volume
-- Agent-wise Issue Handling Performance
 
 ---
 
 ## 🔗 Project Links
 
 🌐 **Live Power BI Dashboard:**  
-👉 (Add your Power BI public link here)
+👉 [Call Center Trend Analysis](https://app.powerbi.com/view?r=eyJrIjoiNDUxOTRhZDItYjA4MS00OWI3LTgwMWMtYjhjOGJmNDIwYjY2IiwidCI6Ijc3ZWYwMzdjLWU5N2MtNDUzZi04MmY2LTI0Y2M2NGViNGEyMCJ9)
 
 📥 **PBIX File:**  
 👉 Not shared publicly to protect original work
@@ -68,7 +60,7 @@ To improve customer satisfaction and issue resolution in the upcoming year:
 
 ## 📸 Dashboard Preview
 
-![Call Center Dashboard](Call_Center_Dashboard.png)
+![Call Center Dashboard](Call_centre.png)
 
 ---
 
