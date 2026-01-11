@@ -48,7 +48,8 @@ To analyze online sales performance across states, categories, customers, and ti
 ---
 
 👉 [MADHAV ONLINE ECOMMERCE](https://app.powerbi.com/view?r=eyJrIjoiMWY3YzQzNjAtZTZhZi00ODBiLWE3YTEtMGQ3MmU1MGRlOGU1IiwidCI6Ijc3ZWYwMzdjLWU5N2MtNDUzZi04MmY2LTI0Y2M2NGViNGEyMCJ9) 
-- Overview ![Screenshot](MADHAV ONLINE ECOMMERCE.png)
+## 📸 Dashboard Preview
+  ![Screenshot](MADHAV ONLINE ECOMMERCE.png)
 
 
 
