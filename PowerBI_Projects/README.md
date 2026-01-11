@@ -31,7 +31,7 @@
 <tr>
 
 <td width="33%" align="center">
-  <h3>🚴Adventure Works Sales Performance</h3>
+  <h3>🚴Adv. Works Sales Performance Analysis</h3>
   <img src="./Adventure Works/AWC_1.png" width="100%"/>
   <br><br>
   🔗 <a href="./Adventure_Works_Sales_Analysis">View Project</a> |
