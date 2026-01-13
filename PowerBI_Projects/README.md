@@ -29,14 +29,6 @@
 
 </tr>
 <tr>
-<td width="33%" align="center">
-  <h3>📞 Call Center Trend Analysis</h3>
-  <img src="./Call Centre Trend-PWC/Call_centre.png" width="100%"/>
-  <br><br>
-  🔗 <a href="./Call Centre Trend-PWC">View Project</a> |
-  🌐 <a href="https://app.powerbi.com/view?r=eyJrIjoiNDUxOTRhZDItYjA4MS00OWI3LTgwMWMtYjhjOGJmNDIwYjY2IiwidCI6Ijc3ZWYwMzdjLWU5N2MtNDUzZi04MmY2LTI0Y2M2NGViNGEyMCJ9">Live Dashboard</a>
-</td>
-
 
 <td width="33%" align="center">
   <h3>🚴Adv. Works Sales Analysis</h3>
@@ -53,7 +45,24 @@
   🔗 <a href="./HPN_Sales_Analysis">View Project</a> |
   🌐 <a href="https://app.powerbi.com/view?r=eyJrIjoiYjBhMDRmMzQtZDIzNC00M2E1LWIyYTUtMDkxMzJmN2MwMzE4IiwidCI6Ijc3ZWYwMzdjLWU5N2MtNDUzZi04MmY2LTI0Y2M2NGViNGEyMCJ9">Live Dashboard</a>
 </td>
+<td width="33%" align="center">
+  <h3>🛍 Super Store Sales Analysis Dashboard</h3>
+  <img src="./Super_Store_Sales_Analysis/SuperStore1.png" width="100%"/>
+  <br><br>
+  🔗 <a href="./Super_Store_Sales_Analysis">View Project</a> |
+  🌐 <a href="https://app.powerbi.com/view?r=eyJrIjoiYTk3YWMzOWUtYTI3Zi00YWVhLWE5OGYtMDEwYTFlMWRkYzQyIiwidCI6Ijc3ZWYwMzdjLWU5N2MtNDUzZi04MmY2LTI0Y2M2NGViNGEyMCJ9">Live Dashboard</a>
+</td>
 
+</tr>
+<tr>
+<td width="33%" align="center">
+  <h3>📞 Call Center Trend Analysis</h3>
+  <img src="./Call Centre Trend-PWC/Call_centre.png" width="100%"/>
+  <br><br>
+  🔗 <a href="./Call Centre Trend-PWC">View Project</a> |
+  🌐 <a href="https://app.powerbi.com/view?r=eyJrIjoiNDUxOTRhZDItYjA4MS00OWI3LTgwMWMtYjhjOGJmNDIwYjY2IiwidCI6Ijc3ZWYwMzdjLWU5N2MtNDUzZi04MmY2LTI0Y2M2NGViNGEyMCJ9">Live Dashboard</a>
+</td>
+  
 </tr>
 </table>
 
