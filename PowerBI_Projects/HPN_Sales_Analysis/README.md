@@ -1,4 +1,4 @@
-# 🥗 HPN (Health & Performance Nutrition) Sales Dashboard – Power BI
+# 🥗 HPN (Health & Performance Nutrition) Sales Dashboard
 
 ## 🎯 Business Objective
 To analyze product sales performance, profitability, customer behavior, and refund patterns in order to improve product strategy, inventory planning, and customer satisfaction.
@@ -72,7 +72,12 @@ To improve business performance and reduce refunds:
 
 ## 📸 Dashboard Preview
 
-![HPN Sales Dashboard](HPN_Sales_Dashboard.png)
+![ss1](HPN_Home.png)
+![ss2](HPN_Transactions.png)
+![ss3](HPN_QtyOrdered.png)
+![ss4](HPN_NetSales.png)
+![ss5](HPN_GrossProfit.png)
+![ss6](HPN_returns.png)
 
 ---
 
