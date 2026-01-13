@@ -46,6 +46,13 @@
   🌐 <a href="https://app.powerbi.com/view?r=eyJrIjoiOTg5OWMyNGQtNTViZC00ZmVmLTkwMGMtNzNkMDgyMjZkMTIwIiwidCI6Ijc3ZWYwMzdjLWU5N2MtNDUzZi04MmY2LTI0Y2M2NGViNGEyMCJ9">Live Dashboard</a>
 </td>
 
+<td width="33%" align="center">
+  <h3>🥗 HPN (Health & Performance Nutrition) Sales Dashboard</h3>
+  <img src="./HPN_Sales_Analysis/HPN_Home.png" width="100%"/>
+  <br><br>
+  🔗 <a href="./HPN_Sales_Analysis">View Project</a> |
+  🌐 <a href="https://app.powerbi.com/view?r=eyJrIjoiYjBhMDRmMzQtZDIzNC00M2E1LWIyYTUtMDkxMzJmN2MwMzE4IiwidCI6Ijc3ZWYwMzdjLWU5N2MtNDUzZi04MmY2LTI0Y2M2NGViNGEyMCJ9">Live Dashboard</a>
+</td>
 
 </tr>
 </table>
