@@ -1,7 +1,7 @@
-# 📞 Call Center Trend Analysis 
+# 📞 Call Centre Trend Analysis 
 
 ## 🎯 Business Objective
-To analyze call center performance, agent efficiency, issue resolution rates, and customer satisfaction in order to improve service quality and optimize agent allocation.
+To analyze call centre performance, agent efficiency, issue resolution rates, and customer satisfaction in order to improve service quality and optimize agent allocation.
 
 ---
 
@@ -51,7 +51,7 @@ To improve customer satisfaction and issue resolution in the upcoming year:
 ## 🔗 Project Links
 
 🌐 **Live Power BI Dashboard:**  
-👉 [Call Center Trend Analysis](https://app.powerbi.com/view?r=eyJrIjoiNDUxOTRhZDItYjA4MS00OWI3LTgwMWMtYjhjOGJmNDIwYjY2IiwidCI6Ijc3ZWYwMzdjLWU5N2MtNDUzZi04MmY2LTI0Y2M2NGViNGEyMCJ9)
+👉 [Call centre Trend Analysis](https://app.powerbi.com/view?r=eyJrIjoiNDUxOTRhZDItYjA4MS00OWI3LTgwMWMtYjhjOGJmNDIwYjY2IiwidCI6Ijc3ZWYwMzdjLWU5N2MtNDUzZi04MmY2LTI0Y2M2NGViNGEyMCJ9)
 
 📥 **PBIX File:**  
 👉 Not shared publicly to protect original work
@@ -60,6 +60,6 @@ To improve customer satisfaction and issue resolution in the upcoming year:
 
 ## 📸 Dashboard Preview
 
-![Call Center Dashboard](Call_centre.png)
+![Call centre Dashboard](Call_centre.png)
 
 ---
