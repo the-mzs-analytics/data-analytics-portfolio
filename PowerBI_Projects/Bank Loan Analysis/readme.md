@@ -119,7 +119,7 @@ Based on the analysis, to improve lending performance and reduce risk:
 👉 [Bank_Loan_Analysis_Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTBmOWZlYjItYTk4MC00ZjAyLWEzMzgtMGZmYjlhNWNkOWVjIiwidCI6Ijc3ZWYwMzdjLWU5N2MtNDUzZi04MmY2LTI0Y2M2NGViNGEyMCJ9)
 
 ### 📸 Executive Summary
-![Summary](Summary.png)
+![Summar](Summary.png)
 
 ### 📸 Loan Overview
 ![Overview](Overview.png)
