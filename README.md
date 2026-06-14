@@ -37,5 +37,13 @@
   🌐 <a href="https://app.powerbi.com/view?r=eyJrIjoiYjZkZTQxNDYtNWFkYy00ZjFkLWE0NTUtYWEzMzVmZmQwY2IwIiwidCI6Ijc3ZWYwMzdjLWU5N2MtNDUzZi04MmY2LTI0Y2M2NGViNGEyMCJ9">Live Dashboard</a>
 </td>
 
+<td width="33%" align="center">
+  <h3>🚦 Bank Loan Analysis</h3>
+  <img src="PowerBI_Projects/PowerBI_Projects/Bank Loan Analysis/Summary.png" width="100%"/>
+  <br><br> 
+  🔗 <a href="PowerBI_Projects/Bank Loan Analysis">View Project</a> |
+  🌐 <a href="https://app.powerbi.com/view?r=eyJrIjoiNTBmOWZlYjItYTk4MC00ZjAyLWEzMzgtMGZmYjlhNWNkOWVjIiwidCI6Ijc3ZWYwMzdjLWU5N2MtNDUzZi04MmY2LTI0Y2M2NGViNGEyMCJ9">Live Dashboard</a>
+</td>
+
 </tr>
 </table>
