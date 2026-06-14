@@ -111,7 +111,18 @@ Based on the analysis, to improve lending performance and reduce risk:
 
 ---
 
-## 📁 Files
+## 📊 Skills Demonstrated
+
+- SQL Querying
+- Data Cleaning
+- Data Modeling
+- DAX Calculations
+- Financial Analytics
+- KPI Reporting
+- Business Intelligence
+- Dashboard Design
+- Data Visualization
+- Banking & Loan Analytics
 
 🔗 Project Links
 
@@ -126,22 +137,6 @@ Based on the analysis, to improve lending performance and reduce risk:
 
 ### 📸 Loan Details
 ![Details](details.png)
-
----
-
-## 📊 Skills Demonstrated
-
-- SQL Querying
-- Data Cleaning
-- Data Modeling
-- DAX Calculations
-- Financial Analytics
-- KPI Reporting
-- Business Intelligence
-- Dashboard Design
-- Data Visualization
-- Banking & Loan Analytics
-
 
 ⚠ Disclaimer
 
