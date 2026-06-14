@@ -51,7 +51,7 @@ To improve customer satisfaction and issue resolution in the upcoming year:
 ## 🔗 Project Links
 
 🌐 **Live Power BI Dashboard:**  
-👉 [Call centre Trend Analysis](https://app.powerbi.com/view?r=eyJrIjoiNDUxOTRhZDItYjA4MS00OWI3LTgwMWMtYjhjOGJmNDIwYjY2IiwidCI6Ijc3ZWYwMzdjLWU5N2MtNDUzZi04MmY2LTI0Y2M2NGViNGEyMCJ9)
+👉 [Call centre Trend Analysis](https://app.powerbi.com/view?r=eyJrIjoiZjk0YTk3ZDItYWFmOS00MjM3LWE4YzEtN2NiZmI0ZmI0MGZkIiwidCI6Ijc3ZWYwMzdjLWU5N2MtNDUzZi04MmY2LTI0Y2M2NGViNGEyMCJ9)
 
 📥 **PBIX File:**  
 👉 Not shared publicly to protect original work
