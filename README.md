@@ -21,10 +21,10 @@
 </td>
 <td width="33%" align="center">
   <h3>🛍 Super Store Sales Analysis Dashboard</h3>
-  <img src="PowerBI_Projects/Super_Store_Sales_Analysis/SuperStore1.png" width="100%"/>
+  <img src="PowerBI_Projects/Super_Store_Sales_Analysis/summary.png" width="100%"/>
   <br><br>
   🔗 <a href="PowerBI_Projects/Super_Store_Sales_Analysis">View Project</a> |
-  🌐 <a href="https://app.powerbi.com/view?r=eyJrIjoiYTk3YWMzOWUtYTI3Zi00YWVhLWE5OGYtMDEwYTFlMWRkYzQyIiwidCI6Ijc3ZWYwMzdjLWU5N2MtNDUzZi04MmY2LTI0Y2M2NGViNGEyMCJ9">Live Dashboard</a>
+  🌐 <a href="https://app.powerbi.com/view?r=eyJrIjoiMmQ3MjkwNGUtODlkZC00ODVjLWJhZjUtMzZkMzVhY2JlNzYxIiwidCI6Ijc3ZWYwMzdjLWU5N2MtNDUzZi04MmY2LTI0Y2M2NGViNGEyMCJ9">Live Dashboard</a>
 </td>
 </tr>
 <tr>
