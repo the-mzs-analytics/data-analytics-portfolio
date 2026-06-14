@@ -45,5 +45,14 @@
   🌐 <a href="https://app.powerbi.com/view?r=eyJrIjoiNTBmOWZlYjItYTk4MC00ZjAyLWEzMzgtMGZmYjlhNWNkOWVjIiwidCI6Ijc3ZWYwMzdjLWU5N2MtNDUzZi04MmY2LTI0Y2M2NGViNGEyMCJ9">Live Dashboard</a>
 </td>
 
+<td width="33%" align="center">
+  <h3>🚦 Call Centre Trend Analysis</h3>
+  <img src="PowerBI_Projects/Call Centre Trend-PWC/Call centre.png" width="100%"/>
+  <br><br> 
+  🔗 <a href="PowerBI_Projects/Call Centre Trend-PWC">View Project</a> |
+  🌐 <a href="https://app.powerbi.com/view?r=eyJrIjoiZjk0YTk3ZDItYWFmOS00MjM3LWE4YzEtN2NiZmI0ZmI0MGZkIiwidCI6Ijc3ZWYwMzdjLWU5N2MtNDUzZi04MmY2LTI0Y2M2NGViNGEyMCJ9">Live Dashboard</a>
+</td>
+
+
 </tr>
 </table>
