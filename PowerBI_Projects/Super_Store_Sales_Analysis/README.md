@@ -57,15 +57,15 @@ To analyze sales, profit, customer behavior, and regional performance to identif
 ## 🔗 Project Links
 
 🌐 **Live Power BI Dashboard:**  
-👉 [Super Store Sales Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTk3YWMzOWUtYTI3Zi00YWVhLWE5OGYtMDEwYTFlMWRkYzQyIiwidCI6Ijc3ZWYwMzdjLWU5N2MtNDUzZi04MmY2LTI0Y2M2NGViNGEyMCJ9)
+👉 [Super Store Sales Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmQ3MjkwNGUtODlkZC00ODVjLWJhZjUtMzZkMzVhY2JlNzYxIiwidCI6Ijc3ZWYwMzdjLWU5N2MtNDUzZi04MmY2LTI0Y2M2NGViNGEyMCJ9)
 
 
 ---
 
 ## 📸 Dashboard Preview
 
-![Super Store Sales Dashboard1](SuperStore1.png)
-![Super Store Sales Dashboard2](SuperStore2.png)
+![Super Store Sales Dashboard1](summary.png)
+![Super Store Sales Dashboard2](forecast.png)
 
 ---
 
